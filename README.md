@@ -4,6 +4,8 @@ Vibestep 是一個 Windows 小工具。反白終端機指令後按下 `Ctrl + Sh
 
 Vibestep 不會執行反白的指令。若文字疑似包含 API Key、密碼或存取權杖，內容不會送出。
 
+指令解釋使用低成本、快速的 `gpt-6-luna` 模型。
+
 ## 第一次使用
 
 1. 確認 Windows 使用者環境變數 `OPENAI_API_KEY` 已設定。
